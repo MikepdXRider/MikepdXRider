@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I once drove to Costa Rica from Portland, OR. Ask me about it!
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikepdxrider&show_icons=true)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikepdxrider&theme=blue-green)

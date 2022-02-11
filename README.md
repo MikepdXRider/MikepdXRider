@@ -11,7 +11,7 @@ Software Engineer leveraging eight years of production and operations management
 
 ### Fun Facts(ask me about them!): 
   - Founded and operated a state licensed cannabis farm for 5 years. 
-  - Drove to Costa Rica in a 1969 VolksWagon Bus from Portland, OR. 
+  - Drove to Costa Rica from Portland, Or in a 1969 VolksWagon Bus. 
 
 ### How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/michaelpdxrider/)

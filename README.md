@@ -6,18 +6,18 @@
 
 <hr>
 
-### About
+### 👦 About 
 Software Engineer leveraging eight years of production and operations management experience to help teams overcome unique challenges, achieve project goals, and deploy market-ready applications. I’m energized working in a fun, collaborative, and industrious environment to materialize collective goals.
 
-### Fun Facts(ask me about them!): 
+### 🎉 Fun Facts(ask me about them!): 
   - Founded and operated a state licensed cannabis farm for 5 years. 
   - Drove to Costa Rica from Portland, Or in a 1969 VolksWagon Bus. 
 
-### How to reach me:
+### 📧 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/michaelpdxrider/)
   - MikepdXRider@gmail.com
 
-### Tech Stack
+### 💾 Tech Stack
 - **Languages:** JavaScript, HTML, CSS, SQL
 - **Libs/Frameworks:** React, Node.js, Express
 - **Databases:** PostgreSQL, Supabase, Firebase
@@ -25,7 +25,7 @@ Software Engineer leveraging eight years of production and operations management
 - **Testing:** Jest, React Testing Library, Mock Service Worker, QUnit
 - **Services:** Twilio, AWS SES, Google OAuth
 
-### Stats
+### 📈 Stats
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikepdxrider&layout=compact&theme=dark)
 <br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=mikepdxrider&show_icons=true&hide=stars,issues&theme=dark)

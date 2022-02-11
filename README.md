@@ -1,9 +1,8 @@
 <!--
 **MikepdXRider/MikepdXRider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -->
+
+![banner](https://github.com/MikepdXRider/MikepdXRider/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 Software Developer leveraging eight years of production and operations management experience to help teams overcome unique challenges, achieve project goals, and deploy market-ready applications. I’m energized working in a fun, collaborative, and industrious environment to materialize collective goals.
 

@@ -10,8 +10,8 @@
 Software Engineer leveraging eight years of production and operations management experience to help teams overcome unique challenges, achieve project goals, and deploy market-ready applications. I’m energized working in a fun, collaborative, and industrious environment to materialize collective goals.
 
 ### 🎉 Fun Facts(ask me about them!): 
-  - Founded and operated a state licensed cannabis farm for five years. 
-  - Drove to Costa Rica from Portland, Or in a 1969 VolksWagon Bus. 
+  - Founded and operated a state-licensed cannabis farm for five years. 
+  - Drove to Costa Rica from Portland, Or in a 1969 Volkswagon Bus. 
 
 ### 📧 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/michaelpdxrider/)

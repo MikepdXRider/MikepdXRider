@@ -21,7 +21,9 @@ Software Engineer leveraging eight years of production and operations management
 - **Testing:** Jest, React Testing Library, Mock Service Worker, QUnit
 - **Services:** Twilio, AWS SES, Google OAuth
 
-###Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mikepdxrider&show_icons=true&theme=dark)
-
+### Stats
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikepdxrider&layout=compact&theme=dark)
+<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=mikepdxrider&show_icons=true&hide=stars,issues&theme=dark)
+
+

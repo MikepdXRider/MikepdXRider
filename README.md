@@ -9,6 +9,6 @@ Software Developer leveraging eight years of production and operations managemen
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michaelpdxrider/)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikepdxrider&show_icons=true&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikepdxrider&show_icons=true&theme=dark)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikepdxrider&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mikepdxrider&theme=dark)

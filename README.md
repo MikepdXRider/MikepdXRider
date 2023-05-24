@@ -18,12 +18,12 @@ Software Engineer leveraging eight years of production and operations management
   - MikepdXRider@gmail.com
 
 ### 💾 Tech Stack
-- **Languages:** JavaScript, HTML, CSS, SQL
-- **Libs/Frameworks:** React, Node.js, Express
-- **Databases:** PostgreSQL, Supabase, Firebase
-- **Tools:** Slack, Git, VScode, Heroku, Netlify, Postman, BeeKeeper Studio
+- **Languages:** JavaScript, HTML, CSS, SQL, PHP
+- **Libs/Frameworks:** React, Node.js, Express, CakePHP
+- **Databases:** PostgreSQL, Supabase, Firebase, GraphQL
+- **Tools:** Slack, Git, VScode, Heroku, Netlify, Postman, BeeKeeper Studio, Navicat
 - **Testing:** Jest, React Testing Library, Mock Service Worker, QUnit
-- **Services:** Twilio, AWS SES, Google OAuth
+- **Services:** Twilio, AWS SES, Google OAuth, Braintree, PayPal, Plaid.
 
 ### 📈 Stats
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikepdxrider&layout=compact&theme=dark)

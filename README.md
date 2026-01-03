@@ -7,7 +7,7 @@
 <hr>
 
 ### 👦 About 
-Software Engineer leveraging eight years of production and operations management experience to help teams overcome unique challenges, achieve project goals, and deploy market-ready applications. I’m energized working in a fun, collaborative, and industrious environment to materialize collective goals.
+Software Engineer with 2+ years of professional experience building and maintaining production systems in client-facing environments. Experienced in backend-heavy full-stack development, legacy codebases, and revenue-critical services, including payments, pricing, and infrastructure migrations.
 
 ### 🎉 Fun Facts(ask me about them!): 
   - Founded and operated a state-licensed cannabis farm for five years. 
